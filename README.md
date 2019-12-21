@@ -5,7 +5,7 @@ The Repository compares different model for the text classification
 
 ### Dataset Set:
 
-The dataset used here is stolen from kaggle dataset.[Link](https://www.kaggle.com/bittlingmayer/amazonreviews)
+The dataset used here is stolen from [kaggle dataset](https://www.kaggle.com/bittlingmayer/amazonreviews)
 This dataset comprises of millions of amazon reviews with sentiment labels. 
 The dataset is restricted to 50000 in train and test data in the study to get quicker result in google colab.  
 		
