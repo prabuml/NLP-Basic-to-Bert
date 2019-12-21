@@ -21,5 +21,22 @@ The dataset is restricted to 50000 in train and test data in the study to get qu
 | Bert  | 95%  |
 
 
+###
+| Notebooks  | Functionality |
+| ------------- | ------------- |
+| Extract_data.ipynb  | Download the data from kaggle data  |
+| Basic_Data_analyst.ipynb  | Perform the basic text data analysis   |
+| LinearSVM_Basic.ipynb  | Experiment with basic linear svm model  |
+| LinearSvm_Glovefeatures.ipynb  | Experiment with linear svm model with glove features  |
+| LinearSVM_Bert.ipynb  | Experiment with linear svm model with bert features  |
+| Basic_lstm_glove_features.ipynb  | Experiment with basic lstm model with glove features  |
+| Ulmfit.ipynb  | Experiment with ulmit model  |
+| Bert.ipynb  | Experiment with bert model  |
+
+
+
+ 
+
+
 
 
