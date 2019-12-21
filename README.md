@@ -34,11 +34,11 @@ The dataset is restricted to 50000 in train and test data in the study to get qu
 | Bert.ipynb  | Experiment with bert model  |
 
 
-References
-https://github.com/alohia/pytorch_playground
-https://github.com/SudalaiRajkumar/DHS2019_HackSession_NLP
-https://www.kaggle.com/bminixhofer/simple-lstm-pytorch-version
-https://github.com/prrao87/tweet-stance-prediction
+### References
+https://github.com/alohia/pytorch_playground <br />
+https://github.com/SudalaiRajkumar/DHS2019_HackSession_NLP <br />
+https://www.kaggle.com/bminixhofer/simple-lstm-pytorch-version <br />
+https://github.com/prrao87/tweet-stance-prediction <br />
  
 
 
