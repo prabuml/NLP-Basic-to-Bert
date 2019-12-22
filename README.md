@@ -35,7 +35,7 @@ The dataset is restricted to 50000 in train and test data in the study to get qu
 
 
 ### Setup
-Can be directly run in google colab or laptop or cloud
+Can be directly run in google colab or laptop or cloud </br>
 Required Library are installed in Notebook
 
 ### References
